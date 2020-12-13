@@ -32,3 +32,10 @@ This repository
   * Calculating Weights
   * Generating Our Output File
   * Additional Project Ideas
+
+
+## Getting Started
+
+* Run $>docker-compose up --build
+* Run $>docker run -p 8888:8888 algorithmic-trading-python_mypython:latest
+* Browse to: http://127.0.0.1:8888/?token=<Cookie> where the cookie can be found from the docker run command output
